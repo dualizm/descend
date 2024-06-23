@@ -1,5 +1,5 @@
 {
-  "name": "descend",
+  "name": "@dualizm/descend",
   "version": "1.0.0",
   "description": "🏂 A library to make the description of endpoints easier.",
   "prepublish": "npm test && npm rollup",

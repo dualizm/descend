@@ -5,12 +5,12 @@
 
 npm:
 ```sh
-npm install descend
+npm install @dualizm/descend
 ```
 
 yarn:
 ```sh
-yarn add descend
+yarn add @dualizm/descend
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ yarn add descend
 Describe your endpoints
 
 ```js
-import { descend, group, params } from './descend'
+import { descend, group, params } from '@dualizm/descend'
 
 const ip = '127.0.0.1'
 const port = 9001
