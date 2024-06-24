@@ -18,7 +18,7 @@ yarn add @dualizm/descend
 Describe your endpoints
 
 ```js
-import { descend, group, params } from '@dualizm/descend'
+import { descend, group } from '@dualizm/descend'
 
 const ip = '127.0.0.1'
 const port = 9001
